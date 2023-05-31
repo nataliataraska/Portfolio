@@ -3,3 +3,25 @@ My Tester's Portfolio.
 ## About me
 
 I recently turned 31 but I still have the same amount of energy as when I graduate from Law University! I'm result oriented, hardworking person that always try to perform at 110 %. My 10 years of experience of studying and working in law teach me how to work under time pressure, make independent decisions and pay attention to the details. Recently I have moved to the field of homologation to broad my knowledge and pursue new challenges. However testing is something that bring my attention and I'm following this subject from few years. I find it fascinating, interesting and challenging as a area of work. That's why from past few months I'm expanding my knowledge in this field, I'm learning the necessary tools and I'm combining it with my current skillset to became a great tester engineering.
+
+## Tools
+* Postman
+* Jira
+* TestLink
+* GitHub
+* Chrome Devtools
+* Browserstack
+
+## Tech skills
+* Creating test cases
+* Reporting bugs
+* SCRUM
+* SQL
+
+## Courses
+
+## Books
+
+## Recommended blogs
+
+## My projects

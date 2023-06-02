@@ -19,9 +19,17 @@ I recently turned 31 but I still have the same amount of energy as when I gradua
 * SQL
 
 ## Courses
+* Internal training - testing theory (based on ISTQB) at Demant Business Services Poland Sp. z o.o.
+* Practical software testing course at UDEMY
 
 ## Books
+* Zawód Tester - Radosław Smilgin
+* Tester oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania - Karolina Zmitrowicz
 
 ## Recommended blogs
+* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
+* [testerzy.pl](https://testerzy.pl/)
+* [testerka.pl](https://testerka.pl/)
 
 ## My projects

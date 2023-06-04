@@ -33,3 +33,5 @@ I recently turned 31 but I still have the same amount of energy as when I gradua
 * [testerka.pl](https://testerka.pl/)
 
 ## My projects
+Empik.com testing:
+* Test Plan - empik.com - search engine and login(https://docs.google.com/document/d/1gl-FlJeEoT2tBWYAtx0xCfDMKOg1YI3UWQtQ4iafgoI/edit?usp=sharing)

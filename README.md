@@ -36,3 +36,4 @@ I recently turned 31 but I still have the same amount of energy as when I gradua
 Empik.com testing:
 * [Test Plan - empik.com - search engine and login](https://drive.google.com/file/d/1SFLNIlbagoMRgzXLk21hxgwmOTaJ27Hm/view?usp=sharing)
 * [Test cases for empik.com - search engine and login](https://drive.google.com/file/d/1YWMxQ7f9VfDY6FgnoPy3LgL2a2gtK38k/view?usp=sharing)
+* [Bug report - empik.com](https://docs.google.com/document/d/1nd2rYGPpRYvcpm1lF8ubQjzv4RKjkU6YXrEiNU_X6TQ/edit?usp=sharing)

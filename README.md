@@ -11,12 +11,17 @@ I recently turned 31 but I still have the same amount of energy as when I gradua
 * GitHub
 * Chrome Devtools
 * Browserstack
+* PickPick
+* ShareX
 
 ## Tech skills
 * Creating test cases
 * Reporting bugs
+* Creating a test plan
 * SCRUM
 * SQL
+* Basic knowledge of 4G (LTE, LTE-A) and 5G
+* Basic knowledge of programing (understanding the terminology: loops, conditionals, variables etc.) 
 
 ## Courses
 * Internal training - testing theory (based on ISTQB) at Demant Business Services Poland Sp. z o.o.

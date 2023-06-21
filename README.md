@@ -30,6 +30,7 @@ I recently turned 31 but I still have the same amount of energy as when I gradua
 ## Books
 * Zawód Tester - Radosław Smilgin
 * Tester oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania - Karolina Zmitrowicz
+* Linux Wprowadzenie do wiersza poleceń - William E. Shotts Jr
 
 ## Recommended blogs
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
